@@ -12,17 +12,18 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1975932252
 ## Description:
 
 - **Stove core:**
-- You need to put this face a small room and the storage size is the size of room(attention: Don't use tow or more core to face same room, And the target room should placed full roof), and then raise the room to 1600 degrees. The core temperature will follow, but at a slower rate (it takes about a day to get to 1600 degree centigrade). At 1600 degree centigrade you can do almost anything like casting, smelting things, destroying things.
+You need to put this face a small room and the storage size is the size of room(attention: Don't use tow or more core to face same room, And the target room should placed full roof), and then raise the room to 1600 degrees. The core temperature will follow, but at a slower rate (it takes about a day to get to 1600 degree centigrade). At 1600 degree centigrade you can do almost anything like casting, smelting things, destroying things.
 
 - **Inputer:**
 With the use of Inputer hopper, especially pay attention to the placing direction of the hopper must follow the instructions, otherwise it will not work.
-The Input requirements:
+
+*The Input requirements:*
 - Raw materials allowed       : unconditional
 - Smeltable weapon            : core temperature 1600 ° c (material)
 - Allowed raw materials       : core temperature 1600 ° c (material)
 - Steel slag block            : core temperature 1400 ° c (steel)
 - Stone                       : core temperature 1600 ° c (stone brick)
-No Allowed raw materials : core temperature: 1600 ° c (destroyed)
+- No Allowed raw materials    : core temperature: 1600 ° c (destroyed)
 Items allowed: meltable weapons, clothing, metal, stone bricks, chunk, weapons part, assembled weapons.
 And,it should be put on the wall, target room should placeed full roof.
 
