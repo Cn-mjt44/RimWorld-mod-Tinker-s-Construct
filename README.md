@@ -14,20 +14,20 @@ Description:
 Stove core:
 You need to put this face a small room and the storage size is the size of room(attention: Don't use tow or more core to face same room, And the target room should placed full roof), and then raise the room to 1600 degrees. The core temperature will follow, but at a slower rate (it takes about a day to get to 1600 degree centigrade). At 1600 degree centigrade you can do almost anything like casting, smelting things, destroying things.
 
- [*][h1]Inputer:[/h1]
+Inputer:
 With the use of Inputer hopper, especially pay attention to the placing direction of the hopper must follow the instructions, otherwise it will not work.
 The Input requirements:
-Raw materials allowed      : unconditional
-Smeltable weapon              : core temperature 1600 ° c (material)
+Raw materials allowed       : unconditional
+Smeltable weapon            : core temperature 1600 ° c (material)
 Allowed raw materials       : core temperature 1600 ° c (material)
-Steel slag block                   : core temperature 1400 ° c (steel)
-Stone                                     : core temperature 1600 ° c (stone brick)
+Steel slag block            : core temperature 1400 ° c (steel)
+Stone                       : core temperature 1600 ° c (stone brick)
 No Allowed raw materials : core temperature: 1600 ° c (destroyed)
 ----------------------------------------
 Items allowed: meltable weapons, clothing, metal, stone bricks, chunk, weapons part, assembled weapons.
-[b][u]And,it should be put on the wall, target room should placeed full roof.[/u][/b]
+And,it should be put on the wall, target room should placeed full roof.
 
- [*][h1]Outputer:[/h1]
+Outputer:
 When there is a cooling bucket or Casting Table in the outlet of the Outputer, and the core temperature above 1600 ° c, and the selected material meets the requirements of the target container, it can be output.[b][u]And,it should be put on the wall,target room should placeed full roof.[/u][/b]
 
  [*][h1]Cooling bucket:[/h1]
