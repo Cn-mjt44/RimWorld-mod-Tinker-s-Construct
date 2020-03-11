@@ -53,4 +53,4 @@ Part affect the way the Assemble weapon/tool by material, quality, and a special
 
 
 Attention:
-if you have using any CE patch mod please take them [h1]BEFORE THIS MOD AFTER CE.
+if you have using any CE patch mod please take them BEFORE THIS MOD AFTER CE.
