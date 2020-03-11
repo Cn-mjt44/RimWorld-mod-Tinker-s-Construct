@@ -23,7 +23,6 @@ Allowed raw materials       : core temperature 1600 ° c (material)
 Steel slag block            : core temperature 1400 ° c (steel)
 Stone                       : core temperature 1600 ° c (stone brick)
 No Allowed raw materials : core temperature: 1600 ° c (destroyed)
-----------------------------------------
 Items allowed: meltable weapons, clothing, metal, stone bricks, chunk, weapons part, assembled weapons.
 And,it should be put on the wall, target room should placeed full roof.
 
