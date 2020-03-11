@@ -1,4 +1,4 @@
-# RimWorld-mod-Tinker-s-Construct
+# RimWorld-mod Tinkers' Construct
 This mod add the stove system and Assemble Weapons system. you can use the Casting Table to casting some simple weapon and clothing or use it to assemble weapon by weapon part.
 Weapon:
 Crossbow
