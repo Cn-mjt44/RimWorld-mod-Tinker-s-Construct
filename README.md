@@ -5,14 +5,14 @@ Crossbow
 LongSword
 Knife
 Pilum
-[b]More Modularization Weapon:[/b]
+More Modularization Weapon:
 https://steamcommunity.com/sharedfiles/filedetails/?id=1975932252
 
 
-[h1][b]Description[/b][/h1]:
-[list]
- [*][h1]Stove core:[/h1]
-You need to put this face a small room and the storage size is the size of room([b][u]attention: Don't use tow or more core to face same room, And the target room should placed full roof[/u][/b]), and then raise the room to 1600 degrees. The core temperature will follow, but at a slower rate (it takes about a day to get to 1600 degree centigrade). At 1600 degree centigrade you can do almost anything like casting, smelting things, destroying things.
+Description:
+
+Stove core:
+You need to put this face a small room and the storage size is the size of room(attention: Don't use tow or more core to face same room, And the target room should placed full roof), and then raise the room to 1600 degrees. The core temperature will follow, but at a slower rate (it takes about a day to get to 1600 degree centigrade). At 1600 degree centigrade you can do almost anything like casting, smelting things, destroying things.
 
  [*][h1]Inputer:[/h1]
 With the use of Inputer hopper, especially pay attention to the placing direction of the hopper must follow the instructions, otherwise it will not work.
